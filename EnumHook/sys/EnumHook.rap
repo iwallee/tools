@@ -1,0 +1,67 @@
+[Project]
+Assembler=masm
+Type=Win32 App (no res)
+Description=enumerates global hook
+Backup=$P\Bak\
+Group=1
+GroupExpand=1
+Debug=0
+[Files]
+1=EnumHook.Asm
+[MakeFiles]
+0=EnumHook.rap
+1=EnumHook.rc
+2=EnumHook.asm
+3=EnumHook.obj
+4=EnumHook.res
+5=EnumHook.exe
+6=EnumHook.def
+7=EnumHook.dll
+8=EnumHook.txt
+9=EnumHook.lib
+10=EnumHook.mak
+11=EnumHook.hla
+12=EnumHook.com
+[MakeDef]
+Menu=0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+1=4,O,$B\RC.EXE /v,1
+2=3,O,$B\ML.EXE /c /coff /Cp /nologo /I"$I",2
+3=5,O,$B\LINK.EXE /SUBSYSTEM:native /driver /align:32 /OUT:EnumHook.sys,3
+4=0,0,,5
+5=rsrc.obj,O,$B\CVTRES.EXE,rsrc.res
+6=*.obj,O,$B\ML.EXE /c /coff /Cp /nologo /I"$I",*.asm
+7=0,0,\OllyDbg\OllyDbg,5
+11=4,O,$B\RC.EXE /v,1
+12=3,O,$B\ML.EXE /c /coff /Cp /Zi /nologo /I"$I",2
+13=5,O,$B\LINK.EXE /SUBSYSTEM:WINDOWS /DEBUG /VERSION:4.0 /LIBPATH:"$L" /OUT:"$5",3
+14=0,0,,5
+15=rsrc.obj,O,$B\CVTRES.EXE,rsrc.res
+16=*.obj,O,$B\ML.EXE /c /coff /Cp /nologo /I"$I",*.asm
+17=0,0,\OllyDbg\OllyDbg,5
+[Group]
+Group=Added files,Assembly,Resources,Misc,Modules
+1=2
+[Colref]
+0=00FFFFFF
+1=00FFFFFF
+2=00FFFFFF
+3=00FFFFFF
+4=00FFFFFF
+5=00FFFFFF
+6=00FFFFFF
+7=00FFFFFF
+[Size]
+1=0,0,0,0,5657
+[BookMark]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+[BreakPoint]
+0=
