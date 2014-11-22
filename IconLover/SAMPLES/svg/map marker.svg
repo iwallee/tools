@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.4 r9939" sodipodi:docname="warning.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="-240 -240 512 512" enable-background="new -240 -240 512 512" xml:space="preserve">
+<g id="Document" transform="matrix(1.0666667,0,0,-1.0666667,-0.8000001,0)">
+	<g id="Spread" transform="translate(0,-24)">
+		<g id="MouseOff">
+			
+				<linearGradient id="path96_1_" gradientUnits="userSpaceOnUse" x1="-25.0903" y1="-67.8548" x2="329.8312" y2="-67.8548" gradientTransform="matrix(0.2001 -1.3182 1.2967 0.3418 92.9519 183.5462)">
+				<stop  offset="0" style="stop-color:#E84C4C"/>
+				<stop  offset="1" style="stop-color:#B72323"/>
+			</linearGradient>
+			<path id="path96" inkscape:connector-curvature="0" fill="url(#path96_1_)" d="M8.09-224.929
+				C-13.491-93.344-86.594-49.482-129.756,23.621c-9.923,19.925-15.32,42.241-15.32,65.793c0,84.739,72.053,153.516,160.826,153.516
+				c88.78,0,160.826-68.777,160.826-153.516c0-23.566-5.382-45.867-15.32-65.793C118.094-49.482,44.991-93.344,8.09-224.929z
+				 M88.853,96.724c0,40.349-32.754,73.103-73.103,73.103s-73.103-32.753-73.103-73.103c0-40.35,32.754-73.103,73.103-73.103
+				S88.853,56.374,88.853,96.724z"/>
+		</g>
+	</g>
+</g>
+</svg>

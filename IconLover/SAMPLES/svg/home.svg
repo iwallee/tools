@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.4 r9939" sodipodi:docname="warning.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="-240 -240 512 512" enable-background="new -240 -240 512 512" xml:space="preserve">
+<g id="Document" transform="scale(1.0666667,-1.0666667)">
+	<g id="Spread" transform="translate(0,-24)">
+		<g id="MouseOff">
+			
+				<linearGradient id="path101_1_" gradientUnits="userSpaceOnUse" x1="16.0162" y1="-32.6217" x2="211.0587" y2="-32.6217" gradientTransform="matrix(0 -1.3333 1.3333 0 58.4971 92.7552)">
+				<stop  offset="0" style="stop-color:#FFBE17"/>
+				<stop  offset="1" style="stop-color:#FFA900"/>
+			</linearGradient>
+			<path id="path101" inkscape:connector-curvature="0" fill="url(#path101_1_)" d="M-148.594-193.237v113.643h0.938v44.103
+				L15.025,127.665L177.656-35.491v-44.103h0.938v-113.643c0-19.319-15.393-35.419-33.771-35.419h-259.618
+				C-133.189-228.656-148.594-212.557-148.594-193.237z"/>
+			
+				<linearGradient id="path103_1_" gradientUnits="userSpaceOnUse" x1="-540.177" y1="-430.7661" x2="-385.9417" y2="-430.7661" gradientTransform="matrix(0 1.3333 -1.3333 0 -559.3546 684.7441)">
+				<stop  offset="0" style="stop-color:#96592A"/>
+				<stop  offset="1" style="stop-color:#AC6D3B"/>
+			</linearGradient>
+			<path id="path103" inkscape:connector-curvature="0" fill="url(#path103_1_)" d="M-209.846-26.541l-3.483,3.476
+				c-11.941,11.934-11.941,31.333,0,43.274L14.999,246.285L243.334,20.21c11.934-11.941,11.934-31.34,0-43.274l-3.491-3.476
+				c-11.948-11.934-31.326-11.934-43.26,0L14.999,157.303L-166.586-26.541C-178.527-38.475-197.904-38.475-209.846-26.541z"/>
+			<path id="path105" inkscape:connector-curvature="0" fill="#FFFFFF" d="M-44.531-79.594v-149.062H74.531v149.062H-44.531z"/>
+		</g>
+	</g>
+</g>
+</svg>

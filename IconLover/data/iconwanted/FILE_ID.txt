@@ -1,0 +1,12 @@
+Icon set: %LibCaption%
+Category: %Category%
+Icon set site: %LibSite%
+Style: %Style%
+License: %License%
+Author name: %Author%
+Author site: %AuthorSite%
+Author e-mail: %AuthorEmail%
+Author twitter: %AuthorTwitter%
+Author facebook: %AuthorFacebook%
+Author ICQ: %AuthorICQ%
+Author skype: %AuthorSkype%

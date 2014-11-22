@@ -1,0 +1,27 @@
+author=Aha-Soft site=http://www.aha-soft.com/ email=support@aha-soft.com icq=211765031 twitter=ahasoftblog skype=aha-soft facebook=iconlover
+author="Standard Icons" site=http://lbaumann.com email=avetenebrae@mac.com icq= twitter=http://twitter.com/lobau skype= facebook=
+author=NekoAmine site=http://www.amineworld.net/ email= icq= twitter= skype= facebook=
+author=Tatice site= email= icq= twitter= skype= facebook=
+author="777 Icons" site=http://www.777icons.com/ email=support@aha-soft.com icq=211765031 twitter=ahasoftblog skype=aha-soft facebook=iconlover
+author="100SeedlessPenguins (Veronica)" site=http://100seedlesspenguins.deviantart.com email= icq= twitter= skype= facebook=
+author=Seanau.com site=http://seanau.com email=design@seanau.com icq= twitter= skype= facebook=
+author=Antrepo site=http://a2591.blogspot.com/ email= icq= twitter= skype= facebook=
+author="Benoit Bender" site=benoit-bender.com email=benoit_bender@hotmail.fr icq= twitter= skype= facebook=
+author=Svengraph site= email=diegocaiazza@gmail.com icq= twitter= skype= facebook=
+author=Nelson site=nelson-tux.deviantart.com email= icq= twitter= skype= facebook=
+author="Mayosoft Studios" site=mayosoft.net email=mayosoft@gmail.com icq= twitter= skype= facebook=
+author=Iconshock site=http://www.iconshock.com email=sales@iconshock.com icq= twitter= skype= facebook=
+author=PixelMixer site=pixel-mixer.com email=hi@pixel-mixer.com icq= twitter= skype= facebook=
+author=Artua.com site=http://www.artua.com email=manager@artua.com icq=351481357 twitter= skype=artua_llc facebook=
+author=Archigraphs site=http://www.standard-icons.com/ email=cyberella@archigraphs.com icq= twitter=http://twitter/cyberela skype= facebook=
+author="Laurent Baumann" site=http://lbaumann.com email=avetenebrae@mac.com icq= twitter=http://twitter.com/lobau skype= facebook=
+author=Turbomilk site=http://turbomilk.com email=info@turbomilk.com icq= twitter=http://twitter/turbomilkcom skype= facebook=http://www.facebook.com/turbomilkcom
+author="Desktop Icon" site=http://www.desktop-icon.com/ email=support@aha-soft.com icq=211765031 twitter=ahasoftblog skype=aha-soft facebook=iconlover
+author="Large Icons" site=http://www.large-icons.com/ email=support@aha-soft.com icq=211765031 twitter=ahasoftblog skype=aha-soft facebook=iconlover
+author="dunedhel (Gary)" site=http://www.leleugary.com email=admin@eleugary.com icq= twitter=dunedhel skype= facebook=dunedhel
+author=TEST site= email= icq= twitter= skype= facebook=
+author=TESTdunedhel site=http://www.leleugary.com email=admin@eleugary.com icq= twitter=dunedhel skype= facebook=dunedhel
+author="Toolbar Icons" site=http://www.toolbar-icons.com/ email=support@aha-soft.com icq= twitter= skype= facebook=
+author=IconsForWindows8 site=http://www.ordericon.com/ email=support@aha-soft.com icq= twitter= skype= facebook=
+author=PixelleDesigns site=http://www.pixelledesigns.com/ email=support@aha-soft.com icq= twitter= skype= facebook=
+author="Craig Philips" site=http://www.iphaze.com email=me@craigphilips.com icq= twitter= skype= facebook=

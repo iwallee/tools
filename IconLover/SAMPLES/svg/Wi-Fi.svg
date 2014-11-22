@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="512"
+   height="512"
+   viewBox="0 0 511.99999 512"
+   id="Слой_1"
+   xml:space="preserve"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs17" />
+<g
+   transform="matrix(2.1818546,0,0,2.1818546,-21.25127,-28.192016)"
+   id="g2996"><g
+     id="g3">
+	<path
+   d="M 78.911,52.991 C 54.177,77.734 54.159,118.01 78.889,142.73 L 96.847,124.781 C 82.006,109.944 82.006,85.803 96.865,70.939 L 78.911,52.991 z"
+   id="path5" />
+	<path
+   d="M 61.098,35.178 43.145,17.229 C -1.388,61.762 -1.396,134.217 43.127,178.736 L 61.066,160.805 C 26.449,126.184 26.458,69.813 61.098,35.178 z"
+   id="path7" />
+	<path
+   d="m 149.173,97.872 c 0,-12.208 -9.902,-22.105 -22.102,-22.105 -12.2,0 -22.101,9.897 -22.101,22.105 0,9.499 6.039,17.542 14.457,20.654 l -10.54,124.75 h 36.368 l -10.539,-124.75 c 8.418,-3.112 14.457,-11.155 14.457,-20.654 z"
+   id="path9" />
+	<path
+   d="m 175.254,53.24 -17.957,17.958 c 14.846,14.836 14.846,38.978 -0.019,53.837 l 17.948,17.949 c 24.735,-24.734 24.753,-65.015 0.028,-89.744 z"
+   id="path11" />
+	<path
+   d="m 211.016,17.239 -17.939,17.935 c 34.622,34.622 34.604,90.992 -0.027,125.623 l 17.949,17.957 c 44.526,-44.537 44.545,-116.992 0.017,-161.515 z"
+   id="path13" />
+</g></g>
+</svg>
